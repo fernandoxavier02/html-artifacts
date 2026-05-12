@@ -1,0 +1,22 @@
+{
+  "name": "html-artifacts",
+  "description": "Generate self-contained HTML artifacts when output is too dense for markdown chat — comparisons, plans, status reports, post-mortems, flowcharts, explainers, code/PR reviews, kanban boards, config editors, prompt tuners. Includes a curated 17-template library from Thariq Shihipar (Anthropic Claude Code team), 4 trading-domain renderers (backtest comparison, risk dashboard, signal audit, market regime), and 3 spec renderers (Kiro requirements/design/tasks auto-detected). Companion HTML for project .md files via PostToolUse hook and /gen-html slash command. Interactive validation artifacts with clipboard-based response channel (multi-item decision/checkbox/select/text). Self-contained outputs land in .claude/_html/artifacts/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "FX Studio AI",
+    "url": "https://github.com/fernandoxavier02/html-artifacts"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "html",
+    "artifacts",
+    "thariq",
+    "report",
+    "plan",
+    "interactive",
+    "validation",
+    "spec-renderer",
+    "kiro"
+  ]
+}
